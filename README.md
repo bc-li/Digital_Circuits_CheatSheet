@@ -5,7 +5,7 @@ A Digital Circuits CheatSheet that helps you to ~~fail~~ the Mid-Term Examiation
 
 实际上它在 2020 年秋季学期模拟与数字电路期中考试中命中了一道分值为 8 分的题目，您可以在 PDF 文件中找到它。
 
-source:https://icourse.club/course/3907/#review-37057
+source: https://icourse.club/course/3907/#review-37057
 ## Why fail
 这是一个悲伤的故事。唯一建议是不要在考场上现学。
 ## Contribute
