@@ -1,5 +1,5 @@
 # Digital_Circuits_CheatSheet
-一张可以帮助同学喜提模拟与数字电路期中考试~~挂科~~的开卷小抄。
+一张可以帮助同学喜提中国科大《模拟与数字电路》课程期中考试~~挂科~~的开卷小抄。
 
 A Digital Circuits CheatSheet that helps you to ~~fail~~ the Mid-Term Examiation
 
